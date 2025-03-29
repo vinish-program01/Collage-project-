@@ -10,7 +10,7 @@
             text-align: center;
         }
         h1 {
-            color: blue;
+            color: green;
         }
     </style>
 </head>
